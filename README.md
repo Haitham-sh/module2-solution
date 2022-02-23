@@ -20,15 +20,15 @@ to complete the assignment:
 
 6. Layout: In the desktop view (992px and above), each of the 3 sections should take up equal amount of space on the screen. As you make the browser window wider or narrower, each section should become wider or narrower.
 
- For a visual reference of this view, see the desktop mockup illustration below.
+   For a visual reference of this view, see the desktop mockup illustration below.
 
 7. Layout: In the tablet view (between 768px and 991px, inclusively), the first 2 sections should be in the first row and be of equal size. The 3rd section should be in the second row and take up the entire row by itself.
 
-For a visual reference of this view, see the tablet mockup illustration below.
+   For a visual reference of this view, see the tablet mockup illustration below.
 
 8. Layout: In the mobile view (equal to or less than 767px), each section should take up the entire row.
 
-For a visual reference of this view, see the mobile mockup illustration below.
+   For a visual reference of this view, see the mobile mockup illustration below.
 
 9. Section title region: Each section should have a section title region that is always positioned at the top right corner of the section no matter the view (desktop, tablet or mobile). Copy the titles from the mockup illustration (i.e., Chicken, Beef, Sushi) or come up with your own.
 
